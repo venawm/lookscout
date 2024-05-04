@@ -193,7 +193,7 @@ const Page = () => {
                 }}
               />
               <p className="text-white">
-                I agree with Lookscout Privacy Policy
+                I agree with Lookscout Privacy Policys
               </p>
             </div>
             <button
